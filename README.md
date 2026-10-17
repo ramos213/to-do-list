@@ -1,2 +1,2 @@
 # todo-list
-Aplicação simples de lista de tarefas desenvolvida com HTML, CSS e JavaScript, permitindo adicionar, concluir e remover tarefas.
+A simple to-do list application developed using HTML, CSS, and JavaScript, allowing users to add, complete, and remove tasks.
